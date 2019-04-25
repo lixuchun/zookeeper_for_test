@@ -8,6 +8,7 @@ public class ZookeepertestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ZookeepertestApplication.class, args);
+                int a = 0;
 	}
 
 }
