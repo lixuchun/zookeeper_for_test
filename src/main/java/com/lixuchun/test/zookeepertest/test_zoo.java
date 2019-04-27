@@ -6,4 +6,7 @@ public class test_zoo {
     public static void main (String args[]) {
         String axxx = "axxx";
     }
+    public static void jack (String args[]) {
+        String axxx = "axxx";
+    }
 }
