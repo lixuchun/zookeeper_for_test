@@ -2,11 +2,20 @@ package com.lixuchun.test.zookeepertest;
 
 public class test_zoo {
 
+    public static void main1122 (String args[]) {
+        int w = 2;
+        String axxx = "axxx";
+    }
+    
     public static void main222 (String args[]) {
         int w = 2;
         String axxx = "axxx";
     }
-
+    
+    public static void jack22 (String args[]) {
+        String axxx = "axxx";
+    }
+    
     private String ax = "xxx";
     private String b = "aaaa";
 
