@@ -8,6 +8,11 @@ public class test_zoo {
     }
 
     private String ax = "xxx";
+
+    public static void jackwww (String args[]) {
+        String axxx = "axxx";
+    }
+
     private String b = "aaaa";
 
     public static void main (String args[]) {
