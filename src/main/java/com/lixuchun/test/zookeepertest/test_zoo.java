@@ -13,7 +13,7 @@ public class test_zoo {
     }
     
     public static void jack22 (String args[]) {
-        String axxx = "axxx";
+        String axxx = "axxxxxxxxssasdasdasdasdasd";
     }
     
     private String ax = "xxx";
