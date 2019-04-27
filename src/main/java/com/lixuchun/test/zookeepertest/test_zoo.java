@@ -13,14 +13,14 @@ public class test_zoo {
     }
     
     public static void jack22 (String args[]) {
-        String axxx = "axxx";
+        String axxx = "axxxxxxxxssasdasdasdasdasd";
     }
     
     private String ax = "xxx";
 
     public static void jackwww (String args[]) {
         String axxx = "axxx";
-        String axxxd = "axxx666666666666666666666666666666666666666666";
+        String axxxd = "axxx4444444444444444444444444444444";
 
     }
 
