@@ -4,7 +4,7 @@ public class test_zoo {
 
     public static void main1122 (String args[]) {
         int w = 2;
-        String axxx = "axxxwww222121212";
+        String axxx = "axxxasdasdasdasd";
     }
     
     public static void main222 (String args[]) {
@@ -20,6 +20,8 @@ public class test_zoo {
 
     public static void jackwww (String args[]) {
         String axxx = "axxx";
+        String axxxd = "axxx666666666666666666666666666666666666666666";
+
     }
 
     private String b = "aaaa";

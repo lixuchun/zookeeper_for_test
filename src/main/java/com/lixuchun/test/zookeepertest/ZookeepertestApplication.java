@@ -10,6 +10,9 @@ public class ZookeepertestApplication {
 		SpringApplication.run(ZookeepertestApplication.class, args);
                 int a = 0;
 		int jack = 444;
+		String axx = "666";
+		int tom = 555;
+		String xxxxx = "";
 	}
 
 }
