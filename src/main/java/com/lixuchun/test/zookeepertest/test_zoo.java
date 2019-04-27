@@ -5,6 +5,7 @@ public class test_zoo {
     public static void main1122 (String args[]) {
         int w = 2;
         String axxx = "axxxasdasdasdasd";
+        System.out.println(666);
     }
     
     public static void main222 (String args[]) {
