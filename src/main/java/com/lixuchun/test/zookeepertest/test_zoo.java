@@ -20,7 +20,7 @@ public class test_zoo {
 
     public static void jackwww (String args[]) {
         String axxx = "axxx";
-        String axxxd = "axxx666666666666666666666666666666666666666666";
+        String axxxd = "axxx666666666wwwwwwwwwwwwwwwwwwwwwwwwwww6666";
 
     }
 
