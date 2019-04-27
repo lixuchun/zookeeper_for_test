@@ -14,4 +14,7 @@ public class test_zoo {
         int w = 2;
         String axxx = "axxx";
     }
+    public static void jack (String args[]) {
+        String axxx = "axxx";
+    }
 }
